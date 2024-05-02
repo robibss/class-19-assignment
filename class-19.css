@@ -433,6 +433,10 @@ input {
 	color: #fff;
 
 }
+.get-star:hover {
+	background-color:#000;
+
+}
 .get-img{
 	float: right;
 	width:50% ;
